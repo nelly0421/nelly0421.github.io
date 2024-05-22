@@ -57,6 +57,22 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ACMMM2024</div><img src='images/SMPD24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Revisiting CLIP-Features for Learning Multi-Modal Representations from Social Posts**
+
+Submitted to ACM International Conference on Multimedia (ACMMM2024)
+
+Chih-Chung Hsu, **Chia-Ming Lee**, Yu-Fan Lin, Yi-Shiuan Chou, Chih-Yu Jiang, Chi-Han Tsai
+
+**Keywords**
+- Vision-Language Model 
+- Social Media Analysis
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS2024</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,7 +81,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 Submitted to IEEE Transactions on Geoscience and Remote Sensing
 
-Chih-Chung Hsu,  Chih-Chien Ni, **Chia-Ming Lee**, Li-Wei Kang
+Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, Li-Wei Kang
 
 **Keywords**
 - Knowledge Distillation
