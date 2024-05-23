@@ -145,17 +145,11 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
   <div style="flex: 1; padding-right: 20px;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z5HE8exeTs?si=RGZCnUumfZ4BKooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
+
   <div style="flex: 1; padding-left: 20px;">
-    <h2>Divide and Conquer: Grounding the Bleeding Areas with Two-Stage Model</h2>
-    <p>IEEE International Conference on Image Processing (ICIP2024)</p>
-    <h3>Keywords</h3>
-    <ul>
-      <li>Multi-task Learning</li>
-      <li>Medical Image</li>
-    </ul>
-    <a href="https://nelly0421.github.io" style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; text-decoration: none;">GitHub</a>
+    <h2>Pikachu Volleyball</h2>
+    <p>"Pikachu Volleyball" is a game we've designed to offer you a unique volleyball experience. In this charming game, you'll join forces with friends to form teams and engage in thrilling volleyball matches against your opponents</p>
   </div>
-</div>
 
 
 # 📖 Educations
