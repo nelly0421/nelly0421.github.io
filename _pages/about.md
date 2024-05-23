@@ -138,16 +138,11 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
 
 # 💼 Projects
 
-- *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
-- 
-
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
-    <iframe width="560" height="315" src="https://youtu.be/0Z5HE8exeTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z5HE8exeTs?si=RGZCnUumfZ4BKooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
+</div>
   <div style="flex: 1; padding-left: 20px;">
     <h2>Divide and Conquer: Grounding the Bleeding Areas with Two-Stage Model</h2>
   </div>
