@@ -139,13 +139,11 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
 # 💼 Projects
 
 - *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
-- *2024.4~*: AI Enhancing Substrate Manufacturing Yield with Optimized Process Factors, Corporate R&D, Advanced Semiconductor Engineering Group (ASE).
-- *2023.2~2024.1* :Substrate Drilling Scatter Plot Defect Detection, Corporate R&D, Advanced Semiconductor Engineering Group (ASE).
-- *2022.6~2022.12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University. (Joint-project with Institute of Fisheries Science, National Taiwan University)
+- 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
-    <iframe width="560" height="315" src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://www.youtube.com/watch?v=V_4JlH23K-4&list=RDMMV_4JlH23K-4&start_radio=1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Wr6UI-PPEaQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <h2>Divide and Conquer: Grounding the Bleeding Areas with Two-Stage Model</h2>
