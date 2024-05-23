@@ -33,7 +33,7 @@ My research interests include:
 - **Image/Video Processing and Restoration**
 - **Multi-Modal Learning and Modeling**
   
-In addition, I also enjoy cooking🍲, traveling🌐 and playing piano🎹, Feel free to chat with me about it if you share the same interest! 😄
+In addition, I also enjoy cooking🍲, traveling🌐 and playing piano🎹, feel free to chat with me about it if you share the same interest! 😄
 
 
 # 🔥 News
