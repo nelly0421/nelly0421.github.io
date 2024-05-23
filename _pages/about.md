@@ -143,7 +143,8 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Wr6UI-PPEaQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtu.be/0Z5HE8exeTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <h2>Divide and Conquer: Grounding the Bleeding Areas with Two-Stage Model</h2>
@@ -159,7 +160,7 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
 
 
 # 📖 Educations
-- *2022.02 - (now)*, M.S. National Cheng Kung University (NCKU), the Department of Statistics, Taiwan. 
+- *2022.02 - (now)*, B.S. National Cheng Kung University (NCKU), the Department of Statistics, Taiwan. 
   
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
