@@ -151,6 +151,8 @@ emergency situations, it can also swiftly locate nearby animal hospitals.</p>
   </div>
 </div>
 
+<div class='paper-box-text' markdown="1">
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
