@@ -22,20 +22,17 @@ redirect_from:
 # 🧍‍♂️ Biography
 
 
-I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am a passionate computer vision and deep learning researcher. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU).
+I am currently a student majoring in Statistics at National Cheng Kung University (NCKU) in Tainan, Taiwan, and I'm an enthusiastic researcher in the field of computer vision and deep learning. 
 
-I received a B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
+I work as a research assistant at the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU). 
 
-Find my resume <a href="https://drive.google.com/file/d/1GoP7QoNSw2HM5uFkLd8ZpwSbn1-eyQfw/view?usp=sharing" target="https://drive.google.com/file/d/1GoP7QoNSw2HM5uFkLd8ZpwSbn1-eyQfw/view?usp=sharing">here</a> (last updated April 11, 2024).
+Find my resume <a href="https://drive.google.com/file/d/1MUOZP8VdEFDfQ0BJ9NRQAgZyWDXgikLm/view?usp=sharing" target="https://drive.google.com/file/d/1MUOZP8VdEFDfQ0BJ9NRQAgZyWDXgikLm/view?usp=sharing">here</a> (last updated May 23, 2024).
 
 My research interests include: 
 
 - **Image/Video Processing and Restoration**
-- **Multi-Media Information Security**
 - **Multi-Modal Learning and Modeling**
   
-I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-scene Reconstruction. I am actively seeking a collaboration. 
-
 In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and traveling🌐, welcome to talk about that with me if you have the same hobbyXD.
 
 # 🔥 News
