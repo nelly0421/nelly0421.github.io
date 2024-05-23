@@ -40,20 +40,9 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 🔥 News
 
-- *2024/05/21*: &nbsp;🎉🎉 Two paper are accepted by MIPR 2024 (Acceptance rate: 19.5%).
 - *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd place in SMP Challenge in ACMMM 2024! 
 - *2024/04/11*: &nbsp;🎉🎉 Two paper are accepted by CVPRW 2024, see you in Seattle! 
 - *2024/03/23*: &nbsp;🎉🎉 I receive the 3rd place in COVID-19 detection Challange, in conjuncted with CVPR 2024 (DEF-AI-MIA workshop). 
-- *2024/03/13*: &nbsp;🎉🎉 One paper is accepted by TGRS (IF: 8.2, Rank 29/1409=2% in Electrical and Electronic Engineering).
-- *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
-- *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
-- *2023/11/23*: &nbsp;🎉🎉 I am the Ministry of Education Presidential Education Award (總統教育獎) Candicate in NCKU.
-- *2023/10/31*: &nbsp;🎉🎉 I receive the Top Paper Award in ACMMM 2023 (Social Media Prediction Challenge).
-- *2023/10/17*: &nbsp;🎉🎉 One paper is accepted by MMAsia 2023.
-- *2023/10/2*: &nbsp;🎉🎉 I receive the Jury Prize in ICCV 2023 (Visual Inducitve Priors Workshop).
-- *2023/8/1*: &nbsp;🎉🎉 Two paper are accepted by CVGIP 2023.
-- *2023/7/13*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2023.
-- *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
 
 # 📝 Selected Publications 
 
@@ -64,7 +53,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 Submitted to ACM International Conference on Multimedia (ACMMM2024)
 
-Chih-Chung Hsu, **Chia-Ming Lee**, Yu-Fan Lin, Yi-Shiuan Chou, Chih-Yu Jiang, Chi-Han Tsai
+Chih-Chung Hsu, Chia-Ming Lee, Yu-Fan Lin, **Yi-Shiuan Chou**, Chih-Yu Jiang, Chi-Han Tsai
 
 **Keywords**
 - Vision-Language Model 
@@ -74,22 +63,6 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yu-Fan Lin, Yi-Shiuan Chou, Chih-Yu Jiang, Ch
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS2024</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**
-
-Submitted to IEEE Transactions on Geoscience and Remote Sensing
-
-Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, Li-Wei Kang
-
-**Keywords**
-- Knowledge Distillation
-- Hyperspectral Image Fusion
-- Image Pan-sharping
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TPAMI2024</div><img src='images/GRACE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,7 +71,7 @@ Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, Li-Wei Kang
 
 Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-Chih-Chung Hsu, Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, **Chia-Ming Lee**, Yi-Shiuan Chou
+Chih-Chung Hsu, Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, Chia-Ming Lee, **Yi-Shiuan Chou**
 
 **Keywords**
 - Adversarial Attack
@@ -116,7 +89,7 @@ Chih-Chung Hsu, Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, **Chia-Ming Lee**, Y
 
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Trends in Image Restoration and Enhancement (NTIRE) Workshop
 
-Chih-Chung Hsu, **Chia-Ming Lee**, Yi-Shiuan Chou
+Chih-Chung Hsu, Chia-Ming Lee, **Yi-Shiuan Chou**
 
 **Keywords**
 - Image Super-resolution
@@ -134,23 +107,6 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yi-Shiuan Chou
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2024</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Divide and Conquer: Grounding the Bleeding Areas with Two-Stage Model**
-
-IEEE International Conference on Image Processing (ICIP2024)
-
-Chih-Chung Hsu, Yu-Fan Lin, **Chia-Ming Lee**, Bo-Cheng Chiu
-
-**Keywords**
-- Multi-task Learning
-- Medical Image
-  <div class="links">
-      <a href="https://github.com/VanLinLin/Auto-WCEBleedGen-Challenge-Version-V2" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
-  </div>
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='images/4SFL.png' alt="sym" width="100%"></div></div>
@@ -160,7 +116,7 @@ Chih-Chung Hsu, Yu-Fan Lin, **Chia-Ming Lee**, Bo-Cheng Chiu
 
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Domain adaptation, Explainability, Fairness in AI for Medical Image Analysis (DEF-AI-MIA) Workshop
 
-Chih-Chung Hsu, **Chia-Ming Lee**, Yang Fan Chiang, Yi-Shiuan Chou, Chih-Yu Jiang, Shen-Chieh Tai, Chi-Han Tsai
+Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jiang, Shen-Chieh Tai, Chi-Han Tsai
 
 **Keywords**
 - Semi-supervised learning
@@ -176,135 +132,12 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yang Fan Chiang, Yi-Shiuan Chou, Chih-Yu Jian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/pfatsne3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Progressive Alignment with VLM-LLM Feature to Augment Defect Classification for the ASE Dataset**
-
-Submitted to IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Multimodal Learning and Applications (MLA) Workshop
-
-Chih-Chung Hsu, **Chia-Ming Lee**
-
-**Keywords**
-- Feature Alignment
-- Vision-Language Model
-- Large-Lauguage Model
-- Defect Classification
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS2024</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat**
-
-IEEE Transactions on Geoscience and Remote Sensing (IF: 8.2, Rank 29/1409=2% in Electrical and Electronic Engineering)
-
-Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
-
-**Keywords**
-- Hypersepctral Image
-- Compression and Sensing
-- Image Restoration
-  
-  <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10474407" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">IEEE Xplore</a>
-  </div>
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVW2023</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**
-
-IEEE/CVF International Conference on Computer Vision (ICCV2023), Visual Inductive Priors for Data-Efficient Deep Learning Workshop
-
-Chih-Chung Hsu, **Chia-Ming Lee**
-
-**Keywords**
-- 2D-Instance Segmentation
-- Data-Efficient Learning
-- Visual Inductive Priors
-- Domain Adaptation
-  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMAsia2023</div><img src='images/mmasia.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Adapting Object Detection to Fisheye Cameras: A Knowledge Distillation with Semi-Pseudo-Label Approach**
-
-ACM International Conference on Multimedia at Asia, Tainan, Taiwan
-
-Chih-Chung Hsu, Wen-Hai Tseng, Ming-Husan Wu, **Chia-Ming Lee** and Wei-Hao Huang
-
-**Keywords**
-- Knowledge Distillation
-- Autonomous Driving
-- 2D-Object Detection
-  
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2023</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Gradient Boost Tree Network based on Extensive Feature Analysis for Popularity Prediction of Social Posts**
-
-ACM International Conference on Multimedia (ACMMM2023), Ottawa, Canada
-
-Chih-Chung Hsu, **Chia-Ming Lee**, Xiu-Yu Hou and Chi-Han Tsai
-
-**Keywords**
-- Mulit-Modality Learning
-- Social Media Forecasting
-- Time-Series Data processing
-  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP2023</div><img src='images/icassp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Bag of Tricks of Hybrid Network for Covid-19 Detection of CT Scans**
-
-IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP2023), Rhodes Island, Greece
-
-Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
-
-**Keywords**
-- Image Processing
-- COVID-19 Detection
-- Medical Image
-  
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2024.05*:  **3rd place**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
-- *2024.03*:  9th place (9/288), AI City Challenge Track 4: Road Object Detection in Fish-Eye Cameras, IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **6th place (6/195)**, NTIRE 2024 Image Super-Resolution (x4), IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **3rd place (3/21)**, COVID-19 Detection Challange, Domain adaptation, Explainability and Fairness in AI for Medical Image Analysis, IEEE Computer Vision & Pattern Recognition (CVPR). 
-- *2024.03*:  **2nd place (2/1200+)**, Auto-WCEBleedGen Challenge Version V2, IEEE International Conference on Image Processing (ICIP).
-- *2024.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
-- *2024.01*:  6th place (6/195), SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
-- *2023.12*:  **2nd place (2/129)**, Embedded AI Object Detection Model Design, PAIR-LITEON Competition, ACM International Conference on Multimedia Asia (MMAsia).
-- *2023.11*:  **Gold Medal Award (1/150+)**, SAS Hackathon, [Reported by 6+ domsetic media].
-- *2023.10*:  **Top Paper Award (3/700+)** , Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
-- *2023.10*:  **Jury Prize (1/176)**, Visual Inductive Priors Workshop on Instance Segmentation Challenge, IEEE/CVF International Conference on Computer Vision (ICCV).
-- *2023.06*:  **Winner (1/18)**, COV19 Detection Challenge, AI-enabled Medical Image Analysis Workshop in IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP).
-- *2023.06*:  **The Highest Prize (1/96)**, International Competition Scholarship, Fu Jen Catholic University.
-- *2021.09*:  Zhang Wang Wei Foundation Scholarship, Fu Jen Catholic University.
 
 # 💼 Projects
 
@@ -314,14 +147,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 - *2022.6~2022.12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University. (Joint-project with Institute of Fisheries Science, National Taiwan University)
 
 # 📖 Educations
-- *2023.09 - (now)*, M.S. National Cheng Kung University (NCKU), the Institute of Data Science, Taiwan. 
-- *2019.09 - 2023.06*, B.S. Fu Jen Catholic University (FJCU), the Department of Statistics and Information Science, Taiwan.
+- *2022.02 - (now)*, M.S. National Cheng Kung University (NCKU), the Department of Statistics, Taiwan. 
   
-# 💼 Academic Services
-
-- *2024.05*, Experiences on Competitions and Challenges in International Conference, National Taiwan University of Science and Technology (NTUST)
-
-- *Conference paper Reviewer*, CVPR2024
-
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
