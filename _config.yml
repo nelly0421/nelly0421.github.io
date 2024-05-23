@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chia-Ming Lee"
+title                    : "Yi-Shiuan Chou"
 description              : "CV/DL Researcher"
-repository               : "ming053l/ming053l.github.io"
+repository               : "nelly0421/nelly0421.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ming053l"
+  github           : "nelly0421"
   google_plus      :
   keybase          :
   instagram        :
