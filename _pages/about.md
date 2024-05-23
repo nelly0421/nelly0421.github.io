@@ -138,7 +138,8 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
 
 # 💼 Projects
 
-
+<div class='paper-box'><div class='paper-box-image'>
+<div class='paper-box-text' markdown="1">
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z5HE8exeTs?si=RGZCnUumfZ4BKooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -151,7 +152,6 @@ emergency situations, it can also swiftly locate nearby animal hospitals.</p>
   </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
