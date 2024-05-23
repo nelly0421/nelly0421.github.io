@@ -146,14 +146,11 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z5HE8exeTs?si=RGZCnUumfZ4BKooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
   <div style="flex: 1; padding-left: 20px;">
-    <h2>Divide and Conquer: Grounding the Bleeding Areas with Two-Stage Model</h2>
-    <p>IEEE International Conference on Image Processing (ICIP2024)</p>
-    <h3>Keywords</h3>
-    <ul>
-      <li>Multi-task Learning</li>
-      <li>Medical Image</li>
-    </ul>
-    <a href="https://nelly0421.github.io" style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; text-decoration: none;">GitHub</a>
+    <h2>i-pet</h2>
+    <p>Our project goal is to create a line bot tailored for pet owners, utilizing real-time interactions with a
+chatbot to assist pet owners in finding pet-friendly restaurants and attractions when they go out. In
+emergency situations, it can also swiftly locate nearby animal hospitals.</p>
+    <a href="[https://nelly0421.github.io](https://github.com/nelly0421/-./tree/main/final%20project)" style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; text-decoration: none;">GitHub</a>
   </div>
 </div>
     
