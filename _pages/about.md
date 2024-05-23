@@ -138,8 +138,6 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
 
 # 💼 Projects
 
-- *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
-- 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
@@ -150,7 +148,19 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
     <p>Our project goal is to create a line bot tailored for pet owners, utilizing real-time interactions with a
 chatbot to assist pet owners in finding pet-friendly restaurants and attractions when they go out. In
 emergency situations, it can also swiftly locate nearby animal hospitals.</p>
-    <a href="[https://nelly0421.github.io](https://github.com/nelly0421/-./tree/main/final%20project)" style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; text-decoration: none;">GitHub</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Wr6UI-PPEaQ?si=0zs-3tp6RW2Z__mY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <h2>Pikachu Volleyball</h2>
+    <p>"Pikachu Volleyball" is a game we've designed to offer you a unique volleyball experience. In this
+charming game, you'll join forces with friends to form teams and engage in thrilling volleyball matches
+against your opponents.s.</p>
   </div>
 </div>
     
