@@ -38,10 +38,10 @@ In addition, I also enjoy cooking🍲, traveling🌐 and playing piano🎹, feel
 
 # 🔥 News
 
+- *2024/05/25*: &nbsp;🎉🎉 I receive the top3% ranking (after Xiaomi, Kuaishou corp.) in SISR Challenge, in conjuncted with CVPR 2024 (NTIRE workshop). 
 - *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd place in SMP Challenge in ACMMM 2024! 
 - *2024/04/11*: &nbsp;🎉🎉 Two paper are accepted by CVPRW 2024, see you in Seattle! 
 - *2024/03/23*: &nbsp;🎉🎉 I receive the 3rd place in COVID-19 detection Challange, in conjuncted with CVPR 2024 (DEF-AI-MIA workshop).
-- *2024/05/25*: &nbsp;🎉🎉 I receive the top3% ranking (after Xiaomi, Kuaishou corp.) in SISR Challenge, in conjuncted with CVPR 2024 (NTIRE workshop). 
 
 # 📝 Selected Publications 
 
