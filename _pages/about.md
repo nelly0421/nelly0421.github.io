@@ -38,10 +38,14 @@ In addition, I also enjoy cooking🍲, traveling🌐 and playing piano🎹, feel
 
 # 🔥 News
 
-- *2024/05/25*: &nbsp;🎉🎉 I receive the top3% ranking (after Xiaomi, Kuaishou corp.) in SISR Challenge, in conjuncted with CVPR 2024 (NTIRE workshop). 
-- *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd place in SMP Challenge in ACMMM 2024! 
-- *2024/04/11*: &nbsp;🎉🎉 Two paper are accepted by CVPRW 2024, see you in Seattle! 
-- *2024/03/23*: &nbsp;🎉🎉 I receive the 3rd place in COVID-19 detection Challange, in conjuncted with CVPR 2024 (DEF-AI-MIA workshop).
+- *2024/08/05*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2024! 
+- *2024/07/31*: &nbsp;🎉🎉 Three papers are accepted by CVGIP 2024.
+- *2024/06/12*: &nbsp;🎉🎉 Our 'DRCT' have been selected for Oral Presentation in CVPR - NTIRE!
+- *2024/06/06*: &nbsp;🎉🎉 I receive the Top Performance Award in ACMMM 2024 (Social Media Prediction Challenge)!
+- *2024/05/25*: &nbsp;🎉🎉 I receive the top3% ranking (after Xiaomi, Kuaishou corp.) in SISR Challenge, CVPR 2024 (NTIRE workshop). 
+- *2024/05/21*: &nbsp;🎉🎉 Two paper are accepted by MIPR 2024 (Acceptance rate: 19.5%).
+- *2024/04/11*: &nbsp;🎉🎉 Two paper are accepted by CVPRW 2024.
+- *2024/03/23*: &nbsp;🎉🎉 I receive the 3rd place in COVID-19 detection Challange, in conjuncted with CVPR 2024 (DEF-AI-MIA workshop). 
 
 # 📝 Selected Publications 
 
