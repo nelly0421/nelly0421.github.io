@@ -138,7 +138,7 @@ Chih-Chung Hsu, Chia-Ming Lee, Yang Fan Chiang, **Yi-Shiuan Chou**, Chih-Yu Jian
 
 
 # 🎖 Honors and Awards
-- *2024.05*:  **3rd place**, Social Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
+- *2024.05*:  **Top Performance Award**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM).  
 - *2024.03*:  **6th place (6/195)**, NTIRE 2024 Image Super-Resolution (x4), IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **3rd place (3/21)**, COVID-19 Detection Challange, Domain adaptation, Explainability and Fairness in AI for Medical Image Analysis, IEEE Computer Vision & Pattern Recognition (CVPR). 
 
