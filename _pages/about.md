@@ -26,7 +26,7 @@ I am currently a student majoring in Statistics at National Cheng Kung Universit
 
 I work as a research assistant at the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU). 
 
-Find my resume <a href="https://drive.google.com/file/d/1MUOZP8VdEFDfQ0BJ9NRQAgZyWDXgikLm/view?usp=sharing" target="https://drive.google.com/file/d/1MUOZP8VdEFDfQ0BJ9NRQAgZyWDXgikLm/view?usp=sharing">here</a> (last updated May 23, 2024).
+Find my resume <a href="https://drive.google.com/file/d/1k8X1_Hc1zF1tUfM6SNSncUMVdz-Lc5da/view?usp=sharing" target="https://drive.google.com/file/d/1k8X1_Hc1zF1tUfM6SNSncUMVdz-Lc5da/view?usp=sharing">here</a> (last updated May 23, 2024).
 
 My research interests include: 
 
